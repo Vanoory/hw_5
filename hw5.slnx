@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CpuClient/CpuClient.csproj" />
+  <Project Path="CpuServer/CpuServer.csproj" />
+  <Project Path="MonitoringServer/MonitoringServer.csproj" />
+  <Project Path="Sensor/Sensor.csproj" />
+</Solution>
